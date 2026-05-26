@@ -95,5 +95,5 @@ Manual-Testing-Project-SauceDemo
 ├── Screenshots
 └── DevTools-Evidence
 ```
-###Author
+### Author
 Crystal-Tiffany Strong
