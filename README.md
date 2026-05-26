@@ -83,3 +83,16 @@ Chrome DevTools used for:
 - Browser Compatibility Testing
 - Attention to Detail
 - Analytical Problem Solving
+
+### Products Structure
+Manual-Testing-Project-SauceDemo
+│
+├── README.md
+├── Test-Cases
+├── Bug-Reports
+├── Cross-Browser-Testing
+├── Screenshots
+└── DevTools-Evidence
+
+###Author
+Crystal-Tiffany Strong
