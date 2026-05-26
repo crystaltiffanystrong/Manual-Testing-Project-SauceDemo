@@ -86,6 +86,7 @@ Chrome DevTools used for:
 
 ### Products Structure
 Manual-Testing-Project-SauceDemo
+```
 │
 ├── README.md
 ├── Test-Cases
@@ -93,6 +94,6 @@ Manual-Testing-Project-SauceDemo
 ├── Cross-Browser-Testing
 ├── Screenshots
 └── DevTools-Evidence
-
+```
 ###Author
 Crystal-Tiffany Strong
