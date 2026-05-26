@@ -17,74 +17,69 @@ Sauce Demo Site: https://www.saucedemo.com/
 
 ## Testing Scope
 The following application areas were tested:
--Login functionality
--Product inventory page
--Shopping cart behavior
--Checkout process
--Navigation menu
--Error handling and validation
--User interface behavior
+- Login functionality
+- Product inventory page
+- Shopping cart behavior
+- Checkout process
+- Navigation menu
+- Error handling and validation
+- User interface behavior
 
 ## Testing Type
--Manual Functional Testing
--UI Testing
--Cross-Browser Testing
--Validation Testing
--Exploratory Testing
+- Manual Functional Testing
+- UI Testing
+- Cross-Browser Testing
+- Validation Testing
+- Exploratory Testing
 
 ## Browsers Tested
--Google Chrome
--Mozilla Firefox
--Microsoft Edge
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
 
-#Tools Used
--Google Sheets
--Microsoft Excel
--Chrome DevTools
--GitHub
+## Tools Used
+- Google Sheets
+- Microsoft Excel
+- Chrome DevTools
+- GitHub
 
 - - -
 
-Project Artifacts
-Manual Test Cases
-
+## Project Artifacts
+### Manual Test Cases
 Includes 25 structured manual test cases covering major application functionality.
 
-Bug Reports
-
+### Bug Reports
 Documented defects including:
+- Steps to reproduce
+- Expected results
+- Actual results
+- Severity and priority
+- Screenshot evidence
 
-Steps to reproduce
-Expected results
-Actual results
-Severity and priority
-Screenshot evidence
-Cross-Browser Testing
-
+### Cross-Browser Testing
 Validation testing performed across multiple browsers to verify consistent application behavior.
 
-Screenshots
-
+### Screenshots
 Visual evidence captured during testing including:
+- Successful test execution
+- Failed scenarios
+- UI behavior
+- Validation messages
 
-Successful test execution
-Failed scenarios
-UI behavior
-Validation messages
-DevTools Usage
-
+### DevTools Usage
 Chrome DevTools used for:
+- Inspecting page elements
+- Monitoring console behavior
+- Reviewing network activity
+- UI inspection and validation
 
-Inspecting page elements
-Monitoring console behavior
-Reviewing network activity
-UI inspection and validation
-Skills Demonstrated
-Manual Software Testing
-QA Documentation
-Test Case Design
-Defect Tracking
-Functional Testing
-Browser Compatibility Testing
-Attention to Detail
-Analytical Problem Solving
+### Skills Demonstrated
+- Manual Software Testing
+- QA Documentation
+- Test Case Design
+- Defect Tracking
+- Functional Testing
+- Browser Compatibility Testing
+- Attention to Detail
+- Analytical Problem Solving
