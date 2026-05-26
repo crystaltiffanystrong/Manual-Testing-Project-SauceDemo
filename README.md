@@ -1,41 +1,44 @@
-# Manual Testing Portfolio SauceDemo
+# Manual Testing Project (SauceDemo)
+
 ## Project Overview
+This project demonstrates manual functional testing performed on the SauceDemo web application.
 
-QA testing portfolio project demonstrating manual functional testing, bug documentation, cross-browser validation, and QA reporting using SauceDemo. Includes structured test cases, screenshots, and testing evidence.
+The project includes:
+- Manual test cases
+- Bug reports
+- Screenshot evidence
+- Basic QA documentation
 
-The goal of this project was to practice real-world software testing workflows including:
-
-- Manual test case creation
-- Functional testing
-- Bug reporting
-- Cross-browser testing
-- Screenshot documentation
-- DevTools inspection and testing validation
+---
 
 ## Application Tested
-Sauce Demo Site: https://www.saucedemo.com/
+https://www.saucedemo.com
 
-## Testing Scope
-The following application areas were tested:
-- Login functionality
-- Product inventory page
-- Shopping cart behavior
-- Checkout process
-- Navigation menu
-- Error handling and validation
-- User interface behavior
+---
+
+## Testing Areas
+- Login Functionality
+- Inventory Page
+- Shopping Cart
+- Checkout Process
+- Navigation Features
+
+---
 
 ## Testing Type
 - Manual Functional Testing
 - UI Testing
-- Cross-Browser Testing
 - Validation Testing
-- Exploratory Testing
+- Cross-Browser Testing
+
+---
 
 ## Browsers Tested
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Edge
+
+---
 
 ## Tools Used
 - Google Sheets
@@ -43,57 +46,29 @@ The following application areas were tested:
 - Chrome DevTools
 - GitHub
 
-- - -
+---
 
-## Project Artifacts
-### Manual Test Cases
-Includes 25 structured manual test cases covering major application functionality.
+## Project Structure
 
-### Bug Reports
-Documented defects including:
-- Steps to reproduce
-- Expected results
-- Actual results
-- Severity and priority
-- Screenshot evidence
-
-### Cross-Browser Testing
-Validation testing performed across multiple browsers to verify consistent application behavior.
-
-### Screenshots
-Visual evidence captured during testing including:
-- Successful test execution
-- Failed scenarios
-- UI behavior
-- Validation messages
-
-### DevTools Usage
-Chrome DevTools used for:
-- Inspecting page elements
-- Monitoring console behavior
-- Reviewing network activity
-- UI inspection and validation
-
-### Skills Demonstrated
-- Manual Software Testing
-- QA Documentation
-- Test Case Design
-- Defect Tracking
-- Functional Testing
-- Browser Compatibility Testing
-- Attention to Detail
-- Analytical Problem Solving
-
-### Products Structure
 Manual-Testing-Project-SauceDemo
 ```
 │
 ├── README.md
-├── Test-Cases
-├── Bug-Reports
-├── Cross-Browser-Testing
-├── Screenshots
-└── DevTools-Evidence
+├── Manual-Test-Cases.xlsx
+├── Bug-Reports.xlsx
+└── Screenshots
 ```
-### Author
+---
+
+## Skills Demonstrated
+- Manual Software Testing
+- Test Case Documentation
+- Bug Reporting
+- Functional Testing
+- QA Documentation
+- Attention to Detail
+
+---
+
+## Author
 Crystal-Tiffany Strong
