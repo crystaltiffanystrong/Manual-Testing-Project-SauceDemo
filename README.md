@@ -1,21 +1,21 @@
 # Manual Testing Portfolio SauceDemo
-# Project Overview
+## Project Overview
 
 QA testing portfolio project demonstrating manual functional testing, bug documentation, cross-browser validation, and QA reporting using SauceDemo. Includes structured test cases, screenshots, and testing evidence.
 
 The goal of this project was to practice real-world software testing workflows including:
 
--Manual test case creation
--Functional testing
--Bug reporting
--Cross-browser testing
--Screenshot documentation
--DevTools inspection and testing validation
+- Manual test case creation
+- Functional testing
+- Bug reporting
+- Cross-browser testing
+- Screenshot documentation
+- DevTools inspection and testing validation
 
-# Application Tested
+## Application Tested
 Sauce Demo Site: https://www.saucedemo.com/
 
-# Testing Scope
+## Testing Scope
 The following application areas were tested:
 -Login functionality
 -Product inventory page
@@ -25,14 +25,14 @@ The following application areas were tested:
 -Error handling and validation
 -User interface behavior
 
-# Testing Type
+## Testing Type
 -Manual Functional Testing
 -UI Testing
 -Cross-Browser Testing
 -Validation Testing
 -Exploratory Testing
 
-# Browsers Tested
+## Browsers Tested
 -Google Chrome
 -Mozilla Firefox
 -Microsoft Edge
@@ -43,7 +43,7 @@ The following application areas were tested:
 -Chrome DevTools
 -GitHub
 
-___
+- - -
 
 Project Artifacts
 Manual Test Cases
