@@ -42,7 +42,6 @@ https://www.saucedemo.com
 
 ## Tools Used
 - Google Sheets
-- Microsoft Excel
 - Chrome DevTools
 - GitHub
 
